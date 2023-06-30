@@ -1,4 +1,4 @@
-package de.androidcrypto.nfcndefexample;
+package de.androidcrypto.nfcdesfireev3example;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
